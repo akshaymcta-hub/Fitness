@@ -63,7 +63,7 @@ export default function About() {
             <div className="absolute -bottom-10 -right-10 bg-white rounded-full p-10 shadow-2xl hidden lg:block border border-slate-100">
                <div className="text-center">
                  <div className="text-5xl font-black text-primary">ABS</div>
-                 <div className="text-xs font-bold text-slate-400 tracking-[0.2em]">CLUB</div>
+                 <div className="text-xs font-bold text-slate-400 tracking-[0.2em]">HEALTH</div>
                </div>
             </div>
           </div>
@@ -77,11 +77,11 @@ export default function About() {
           >
             <span className="text-primary font-black uppercase tracking-[0.3em] text-xs mb-4 inline-block">The Foundation</span>
             <h2 className="text-5xl lg:text-7xl font-black text-dark leading-[0.9] mb-8">
-              ELITE <span className="text-coral">FITNESS</span> <br />
+              ELITE <span className="text-coral">HEALTH</span> <br />
               STANDARDS
             </h2>
             <p className="text-gray-600 text-lg mb-10 leading-relaxed font-medium">
-              At ABS Fitness Club, we dismantle limitations through scientific training, 
+              At ABS Health Care, we dismantle limitations through scientific training, 
               elite-grade nutrition, and a facility that breathes motivation.
             </p>
 

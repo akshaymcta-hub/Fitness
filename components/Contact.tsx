@@ -27,7 +27,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-lg font-black text-slate-800 mb-1 leading-none">Our Location</h4>
-                  <p className="text-slate-500 font-medium">123 Fitness Ave, Muscle Beach, CA 90210</p>
+                  <p className="text-slate-500 font-medium">123 Wellness Ave, Healthy Bay, CA 90210</p>
                 </div>
               </div>
 
@@ -47,7 +47,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-lg font-black text-slate-800 mb-1 leading-none">Email Address</h4>
-                  <p className="text-slate-500 font-medium">hello@absfitness.com</p>
+                  <p className="text-slate-500 font-medium">hello@abshealthcare.com</p>
                 </div>
               </div>
 
@@ -124,7 +124,7 @@ export default function Contact() {
                      <MapPin className="text-white" size={32} />
                   </div>
                   <div className="mt-4 bg-white px-6 py-2 rounded-full text-slate-800 font-black text-sm uppercase tracking-widest shadow-xl">
-                     ABS Fitness Club
+                     ABS Health Care
                   </div>
                </div>
             </div>

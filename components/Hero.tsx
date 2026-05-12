@@ -54,8 +54,8 @@ export default function Hero() {
             </h1>
             
             <p className="text-white/70 text-lg lg:text-xl max-w-xl mb-10 leading-relaxed font-light">
-              Experience the pinnacle of fitness training with world-class facilities, 
-              certified personal trainers, and a community dedicated to excellence. 
+              Experience the pinnacle of health and performance with world-class facilities, 
+              certified specialists, and a community dedicated to excellence. 
               Your journey to a healthier, stronger you starts right here.
             </p>
             

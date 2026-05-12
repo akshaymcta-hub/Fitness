@@ -39,7 +39,7 @@ export default function Navbar() {
             <Dumbbell className="text-white w-6 h-6" />
           </div>
           <span className={`text-2xl font-black tracking-tighter ${scrolled ? 'text-dark' : 'text-white'}`}>
-            ABS<span className="text-primary">FITNESS</span>
+            ABS<span className="text-primary">HEALTHCARE</span>
           </span>
         </Link>
 

@@ -19,7 +19,7 @@ export default function Footer() {
                 <Dumbbell className="text-white w-6 h-6" />
               </div>
               <span className="text-2xl font-black tracking-tighter text-dark uppercase">
-                ABS<span className="text-primary">FITNESS</span>
+                ABS<span className="text-primary">HEALTHCARE</span>
               </span>
             </Link>
             <p className="text-gray-500 text-lg font-medium leading-relaxed mb-10">
@@ -90,7 +90,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-gray-400 text-[10px] font-black tracking-widest uppercase">
-            © 2026 ABS FITNESS CLUB. ENGINEERED FOR SUPREMACY.
+            © 2026 ABS HEALTH CARE. ENGINEERED FOR SUPREMACY.
           </p>
           <div className="flex gap-8 text-gray-400 text-[10px] font-black uppercase tracking-widest">
             <Link href="#" className="hover:text-dark transition-colors">Privacy</Link>

@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'ABS Fitness Club | Transform Your Life',
-  description: 'Premium gym and fitness club for strength, cardio, and wellness.',
+  title: 'ABS Health Care | Transform Your Life',
+  description: 'Premium wellness and health care center for strength, recovery, and longevity.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
